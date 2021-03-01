@@ -9,8 +9,6 @@
 <url> <loc>https://yellowcake.netlify.com/about/logo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/about/character</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/2021-grand-tour</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yellowcake.netlify.com/information/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yellowcake.netlify.com/events/test2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/events/2020-10-31</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/events/2020-11-22-space_guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/events/2019-10-14</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
