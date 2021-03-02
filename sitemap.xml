@@ -102,6 +102,7 @@
 <url> <loc>https://yellowcake.netlify.com/information/2020-10-21-rietzscha_comic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/information/2020-10-14-moguravr</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/events/2020-05-26-htv9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/information/2021-grand-tour</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/information</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yellowcake.netlify.com/world</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
