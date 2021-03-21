@@ -116,6 +116,7 @@
 <url> <loc>https://virtualspaceprogram.org/information/2021-03-05</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/information/2020-12-19beams</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/information/2020-12-19-booth</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://virtualspaceprogram.org/information/monthly</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/information</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/world</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
