@@ -7,6 +7,7 @@
 <url> <loc>https://virtualspaceprogram.org/about/history</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/about/logo</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/about/character</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://virtualspaceprogram.org/cosmorium</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events/2020-10-31</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events/2020-11-22-space_guide</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events/2019-10-14</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -181,6 +182,7 @@
 <url> <loc>https://virtualspaceprogram.org/events/2023-04-15-space_guide</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events/2023-06-10-space_guide</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events/2023-04-22-LT</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://virtualspaceprogram.org/information/cosmorium_open</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/information</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/events</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://virtualspaceprogram.org/world</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
